@@ -4,7 +4,7 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjouanne&hide=issues,contribs&include_all_commits=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjouanne&layout=compact&include_all_commits=true&theme=radical&exclude_repo=ConventionManagerG8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjouanne&layout=compact&include_all_commits=true&theme=radical&exclude_repo=ConventionManagerG8)](https://github.com/cjjouanne)
 
 ### Some Projects
 [![backend](https://github-readme-stats.vercel.app/api/pin/?username=EABModel&repo=backend&show_owner=true&theme=radical)](https://github.com/EABModel/backend)
