@@ -9,8 +9,8 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 ### Some Projects
 [![backend](https://github-readme-stats.vercel.app/api/pin/?username=EABModel&repo=backend&show_owner=true&theme=radical)](https://github.com/EABModel/backend)
 [![frontend](https://github-readme-stats.vercel.app/api/pin/?username=EABModel&repo=frontend&show_owner=true&theme=radical)](https://github.com/EABModel/frontend)
-[![OpenCV-Python](https://github-readme-stats.vercel.app/api/pin/?username=cjjouanne&repo=OpenCV-Python&show_owner=true&theme=radical)](https://github.com/fintoc-com/OpenCV-Python)
-[![FloodingAlgorithm](https://github-readme-stats.vercel.app/api/pin/?username=cjjouanne&repo=FloodingAlgorithm&show_owner=true&theme=radical)](https://github.com/fintoc-com/FloodingAlgorithm)
+[![OpenCV-Python](https://github-readme-stats.vercel.app/api/pin/?username=cjjouanne&repo=OpenCV-Python&show_owner=true&theme=radical)](https://github.com/cjjouanne/OpenCV-Python)
+[![FloodingAlgorithm](https://github-readme-stats.vercel.app/api/pin/?username=cjjouanne&repo=FloodingAlgorithm&show_owner=true&theme=radical)](https://github.com/cjjouanne/FloodingAlgorithm)
 
 
 # About Be
