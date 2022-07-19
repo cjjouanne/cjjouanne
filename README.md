@@ -2,7 +2,7 @@
 
 My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic software engineering student. I am keen to continue learning new skills every day, not just about programming, but about anything I can. I am really passionate about what I do.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjouanne&hide=issues,contribs&include_all_commits=true&count_private=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjouanne&hide=issues,contribs&include_all_commits=true&count_private=true&theme=radical)](https://github.com/cjjouanne)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjouanne&layout=compact&include_all_commits=true&theme=radical&exclude_repo=ConventionManagerG8)](https://github.com/cjjouanne)
 
