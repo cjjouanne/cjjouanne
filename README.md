@@ -52,7 +52,7 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 * **Robotics Championship Winning Team 2019**
 * [PUC Engineering Challenge Finalist 2017](http://ing1004.ing.uc.cl): This course seeks to motivate new students of the Engineering career by bringing them closer to professional practice through the study of multidisciplinary problems that are familiar to them, whose solution is faced from a Human, Intuitive, Creative, and technically Efficient perspective.
  
-## Skills 🦾 [<sup>1</sup>]()
+## Skills 🦾 [<sup>1</sup>](https://github.com/cjjouanne/cjjouanne/blob/main/README.md#skills-legend)
 
 
 * 🟢🟢🟢🟢🟢 Python3 (Machine Learning, Web, Computer Vision, etc.)
