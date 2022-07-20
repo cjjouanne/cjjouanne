@@ -55,21 +55,22 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 ## Skills 🦾 [<sup>1</sup>](https://github.com/cjjouanne/cjjouanne/blob/main/README.md#skills-legend)
 
 
-* 🟢🟢🟢🟢🟢 Python3 (Machine Learning, Web, Computer Vision, etc.)
-* 🟢🟢🟢🟢⚫️ Ruby (and Ruby on Rails)
-* 🟢🟢🟢🟢🟢 JavaScript Environment (NodeJS, Express, Koa, ReactJS, and also with Typescript)
-* 🟢🟢🟢🟢⚫️ SQL Databases (PostgreSQL, MySQL)
-* 🟢🟢🟢🟢🟢 HTML
-* 🟢🟢🟢🟢🟢 CSS, Bootstrap
-* 🟢🟢🟢🟢🟢 Git, GitHub
-* 🟢🟢🟢🟢⚫️ CPU and GPU RTL design
-* 🟢🟢🟢🟢⚫️ C/C++
-* 🟢🟢🟢🟢⚫️ VDHL(for FPGAs programming)
-* 🟢🟢🟢⚫️⚫️ Docker, docker-compose
-* 🟢🟢🟢⚫️⚫️ Azure, Heroku, SharedHosting
-* 🟢🟢⚫️⚫️⚫️ NoSQL Databases (MongoDB, Neo4J)
-* 🟢🟢⚫️⚫️⚫️ C#
-* 🟢🟢⚫️⚫️⚫️ Adobe Suite (Ps, Ai, Xd)
+* 🟣🟣🟣🟣🟣 Python3 (Machine Learning, Web, Computer Vision, etc.)
+* 🟣🟣🟣🟣⚫️ Ruby (and Ruby on Rails)
+* 🟣🟣🟣🟣🟣 JavaScript Environment (NodeJS, Express, Koa, ReactJS, and also with Typescript)
+* 🟣🟣🟣🟣⚫️ SQL Databases (PostgreSQL, MySQL)
+* 🟣🟣🟣🟣🟣 HTML
+* 🟣🟣🟣🟣🟣 CSS, Bootstrap
+* 🟣🟣🟣🟣🟣 Git, GitHub
+* 🟣🟣🟣🟣⚫️ CPU and GPU RTL design
+* 🟣🟣🟣🟣⚫️ C/C++
+* 🟣🟣🟣🟣⚫️ VDHL(for FPGAs programming)
+* 🟣🟣🟣⚫️⚫️ Docker, docker-compose
+* 🟣🟣🟣⚫️⚫️ Swift
+* 🟣🟣🟣⚫️⚫️ Azure, Heroku, SharedHosting
+* 🟣🟣⚫️⚫️⚫️ NoSQL Databases (MongoDB, Neo4J)
+* 🟣🟣⚫️⚫️⚫️ C#
+* 🟣🟣⚫️⚫️⚫️ Adobe Suite (Ps, Ai, Xd)
 
 **Soft Skills:** I consider myself a person with great communication skills, time management capacity, leadership and ability to work in multidisciplinary teams through agile methodologies, like scrum. As for programming, I follow good practices and use design and architectural patterns. I am also a fast learner, creative and self-motivated.
 
@@ -80,8 +81,8 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 
 # 
 > ## Skills legend
-> * 🟢🟢🟢🟢🟢 (Advanced Level Skills)
-> * 🟢🟢🟢🟢⚫️
-> * 🟢🟢🟢⚫️⚫️ (Medium Level Skills)
-> * 🟢🟢⚫️⚫️⚫️
-> * 🟢⚫️⚫️⚫️⚫️ (Low Level Skills)
+> * 🟣🟣🟣🟣🟣 (Advanced Level Skills)
+> * 🟣🟣🟣🟣⚫️
+> * 🟣🟣🟣⚫️⚫️ (Medium Level Skills)
+> * 🟣🟣⚫️⚫️⚫️
+> * 🟣⚫️⚫️⚫️⚫️ (Low Level Skills)
