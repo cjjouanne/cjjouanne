@@ -15,7 +15,7 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 
 # About Be
 
-## Experience
+## Experience 👨‍💻
 
 ### Software Engineer, BePatagonia; Remote, Chile | 2019 -
 * Designing, developing and implementing a system to provide management tools for 7 agricultural companies.
@@ -29,36 +29,37 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 * Built in Python using Flask, PostgreSQL, Bootstrap, Jinja2 and Sendgrid.
 * Hosted in [A2hosting](https://gestionelectrica.gestionagricola.a2hosted.com) shared hosting
 
-## Education
+## Education 🎓
 ### Pontificia Universidad Católica de chile, Santiago, Chile — Software Engineering | 2017-
-* Software Engineering Mayor
-* Industrial Engineering Minor
+> * Software Engineering Mayor
+> * Industrial Engineering Minor
 
-## Relevant Coursework & Projects
+## Relevant Coursework & Projects 📂
 
-* IIC2233-Advanced Level Programming
-* IIC2513-Web Technologies and Applications
-* IIC2413-Database Systems IIC2143-Software Engineering
-* IIC2133-Data Structures and Algorithms
-* IIC2113-Detailed Software Design
-* IIC2173-Software Systems Architecture
-* IIC2343-Computer Architecture
-* IRB2001-Robotics Fundamentals
-* ICS1113-Optimization Methods
-* IIC3745-Testing
-* IIC2154-Capstone Project
+* [IIC2233 - Advanced Level Programming](https://github.com/IIC2233): This course teaches techniques for designing, coding, testing, and evaluating programs that solve algorithmic problems from detailed specifications. In particular, the course teaches some advanced constructions of object-oriented programming not included in the introductory course, some fundamental data structures, basic algorithm design, and analysis techniques. Students must use a series of programming tools to develop their programs.
+* [IIC2513 - Web Technologies and Applications](https://github.com/IIC2513-2019-2): This course seeks to train students in WEB technologies. Today WEB technologies are supporting platforms for various systems, including transactional ones. This course brings the student closer to working with cutting-edge WEB technologies and allows him to develop WEB applications using techniques and tools suitable for those purposes.
+* [IIC2413 - Database Systems](https://github.com/IIC2413):This course teaches the basic theory of the relational model and its application to relational database design, including data integration and transactions, normalization, and stored procedures. The course also teaches the SQL language and fundamental concepts of database management systems (DBMS). In addition, this course teaches the fundamentals of non-relational engines, their benefits and applications.
+* [IIC2143 - Software Engineering](https://github.com/iic2143-2019):This course teaches techniques to carry out a true software development project, from discovering and specifying requirements, interacting with the customer and / or users, to applying, experimenting, and demonstrating a request that meets the requirements.
+* IIC2133 - Data Structures and Algorithms:
+* [IIC2113 - Detailed Software Design](https://github.com/cjjouanne/ConventionManagerG8):This course teaches the main patterns of software design, to design and implement highly cohesive and loosely coupled systems, and to analyze systems from the point of view of their efficiency, reliability and maintainability.
+* [IIC2173 - Software Systems Architecture](https://github.com/iic2173):This course teaches the models and techniques that are used in practice to design the software systems of organizations at an architectural level.
+* [IIC2343 - Computer Architecture](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=iic2343): This course teaches the inner workings of a computer, both operationally and in its organizational structure; describes and analyzes different architectures, from simple sequential machines to parallel machines, emphasizing the basic structure, CPU, processing arithmetic, memory, processes, and input and/or output devices.
+* [IRB2001 - Robotics Fundamentals](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=irb2001): The objective of this course is for the student to understand the fundamental notions and tools for the analysis and design of robotic systems, knowing the definition of robots, their applications, their components, the modeling and simulation of robotic systems and control aspects both at hardware and software levels. Regarding modeling, it includes aspects of the kinematics and dynamics of mechanisms, operation of actuators and sensors. The control part deals with the essential aspects of movement generation, trajectory planning, navigation and basic algorithms of sensory perception and interaction with the environment in industrial, scientific or general use applications. This course ends with a robot soccer competition among all the members of the course.
+* [ICS1113 - Optimization Methods](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=ics1113): This course aims to train students in: the formulation of optimization models for decision-making problems in the deterministic field, in different areas of engineering; and in the use of characterization techniques and resolution of deterministic optimization models, using various linear and non-linear programming algorithms.
+* [IIC3745 - Testing](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=iic3745): This course focuses on techniques to ensure software quality; this is an integral activity that takes place throughout the entire development process: understanding the needs of customers and users, analyzing and documenting the requirements, and verifying and validating the solutions through testing.
+* [IIC2154 - Capstone Project](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=iic2154): Students are organized into teams of 10-14 students to carry out the development of a computer-based solution for a real client; the solution involves software development, hardware calibration, and network design. The students exercise defined roles in the team, for example, project manager, systems analyst, programmer, tester. Teams must follow quality standards and apply best practices for management and development. I served as [project manager](https://github.com/cjjouanne#leadership--volunteering), continuing with the development of the [_zmartboard_](https://zmartboard.cl/login) platform.
 * [AWS Educate Certifications](https://aws.amazon.com/es/education/awseducate/), such as Cloud Computing, Data Science, Machine Learning, and 16 others.
-* Robotics Championship Winning Team 2019
-* PUC Engineering Challenge Finalist 2017
+* **Robotics Championship Winning Team 2019**
+* [PUC Engineering Challenge Finalist 2017](http://ing1004.ing.uc.cl): This course seeks to motivate new students of the Engineering career by bringing them closer to professional practice through the study of multidisciplinary problems that are familiar to them, whose solution is faced from a Human, Intuitive, Creative, and technically Efficient perspective.
 
-## Skills
+## Skills 🦾
 
-* Python3
+* Python3 (Machine Learning, Web, Computer Vision, etc.)
 * Ruby (and Ruby on Rails)
 * JavaScript Environment (NodeJS, Express, Koa, ReactJS, and also with Typescript)
 * SQL Databases (PostgreSQL, MySQL)
 * HTML
-* CSS
+* CSS, Bootstrap
 * Git, GitHub
 * CPU and GPU RTL design
 * C/C++
@@ -72,5 +73,5 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 
 
 ## Leadership & Volunteering
-* **Capstone Project:** Team Leader in charge of 12 developers. My duties included delimiting the Scope of the system, planning and managing the project, including the test and implementation plan, coordinating the work of the different team members, interacting with the client, and ensure compliance with the objectives, deadlines and committed costs. We took over a legacy project called Zmartboard. Currently working in [zmartboard.cl](https://zmartboard.cl/login)
+* **Capstone Project:** Proyect Manager in charge of 12 developers. My duties included delimiting the Scope of the system, planning and managing the project, including the test and implementation plan, coordinating the work of the different team members, interacting with the client, and ensure compliance with the objectives, deadlines and committed costs. We took over a legacy project called Zmartboard. Currently working in [zmartboard.cl](https://zmartboard.cl/login)
 * **Pastoral UC:** I have participated as a volunteer in different projects since 2014 . As head of Finance (Capilla País 2018-2019), I was in charge of raising funds (up to $15K), and managing resources efficiently to meet the budget. As head of training (Trabajo País, Coro Misión País), I developed the training line for the volunteers on each project.
