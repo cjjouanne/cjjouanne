@@ -13,7 +13,7 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 [![FloodingAlgorithm](https://github-readme-stats.vercel.app/api/pin/?username=cjjouanne&repo=FloodingAlgorithm&show_owner=true&theme=radical)](https://github.com/cjjouanne/FloodingAlgorithm)
 
 
-# About Be
+# About Me
 
 ## Experience 👨‍💻
 
