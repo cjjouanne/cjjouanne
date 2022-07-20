@@ -51,23 +51,25 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 * [AWS Educate Certifications](https://aws.amazon.com/es/education/awseducate/), such as Cloud Computing, Data Science, Machine Learning, and 16 others.
 * **Robotics Championship Winning Team 2019**
 * [PUC Engineering Challenge Finalist 2017](http://ing1004.ing.uc.cl): This course seeks to motivate new students of the Engineering career by bringing them closer to professional practice through the study of multidisciplinary problems that are familiar to them, whose solution is faced from a Human, Intuitive, Creative, and technically Efficient perspective.
+ 
+## Skills 🦾 [<sup>1</sup>]()
 
-## Skills 🦾
 
-* Python3 (Machine Learning, Web, Computer Vision, etc.)
-* Ruby (and Ruby on Rails)
-* JavaScript Environment (NodeJS, Express, Koa, ReactJS, and also with Typescript)
-* SQL Databases (PostgreSQL, MySQL)
-* HTML
-* CSS, Bootstrap
-* Git, GitHub
-* CPU and GPU RTL design
-* C/C++
-* VDHL(for FPGAs programming)
-* Docker, docker-compose
-* Azure, Heroku, SharedHosting
-* NoSQL Databases (MongoDB, Neo4J)
-* C#
+* 🟢🟢🟢🟢🟢 Python3 (Machine Learning, Web, Computer Vision, etc.)
+* 🟢🟢🟢🟢⚫️ Ruby (and Ruby on Rails)
+* 🟢🟢🟢🟢🟢 JavaScript Environment (NodeJS, Express, Koa, ReactJS, and also with Typescript)
+* 🟢🟢🟢🟢⚫️ SQL Databases (PostgreSQL, MySQL)
+* 🟢🟢🟢🟢🟢 HTML
+* 🟢🟢🟢🟢🟢 CSS, Bootstrap
+* 🟢🟢🟢🟢🟢 Git, GitHub
+* 🟢🟢🟢🟢⚫️ CPU and GPU RTL design
+* 🟢🟢🟢🟢⚫️ C/C++
+* 🟢🟢🟢🟢⚫️ VDHL(for FPGAs programming)
+* 🟢🟢🟢⚫️⚫️ Docker, docker-compose
+* 🟢🟢🟢⚫️⚫️ Azure, Heroku, SharedHosting
+* 🟢🟢⚫️⚫️⚫️ NoSQL Databases (MongoDB, Neo4J)
+* 🟢🟢⚫️⚫️⚫️ C#
+* 🟢🟢⚫️⚫️⚫️ Adobe Suite (Ps, Ai, Xd)
 
 **Soft Skills:** I consider myself a person with great communication skills, time management capacity, leadership and ability to work in multidisciplinary teams through agile methodologies, like scrum. As for programming, I follow good practices and use design and architectural patterns. I am also a fast learner, creative and self-motivated.
 
@@ -75,3 +77,11 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 ## Leadership & Volunteering
 * **Capstone Project:** Proyect Manager in charge of 12 developers. My duties included delimiting the Scope of the system, planning and managing the project, including the test and implementation plan, coordinating the work of the different team members, interacting with the client, and ensure compliance with the objectives, deadlines and committed costs. We took over a legacy project called Zmartboard. Currently working in [zmartboard.cl](https://zmartboard.cl/login)
 * **Pastoral UC:** I have participated as a volunteer in different projects since 2014 . As head of Finance (Capilla País 2018-2019), I was in charge of raising funds (up to $15K), and managing resources efficiently to meet the budget. As head of training (Trabajo País, Coro Misión País), I developed the training line for the volunteers on each project.
+
+# 
+> ## Skills legend
+> * 🟢🟢🟢🟢🟢 (Advanced Level Skills)
+> * 🟢🟢🟢🟢⚫️
+> * 🟢🟢🟢⚫️⚫️ (Medium Level Skills)
+> * 🟢🟢⚫️⚫️⚫️
+> * 🟢⚫️⚫️⚫️⚫️ (Low Level Skills)
