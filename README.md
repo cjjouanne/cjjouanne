@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic software engineering student. I am keen to continue learning new skills every day, not just about programming, but about anything I can. I am really passionate about what I do.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjouanne&hide=issues,contribs&include_all_commits=true&count_private=true&theme=radical)](https://github.com/cjjouanne)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjouanne&layout=compact&include_all_commits=true&theme=radical&exclude_repo=ConventionManagerG8)](https://github.com/cjjouanne)
@@ -17,7 +15,9 @@ My name is Carlos José Jouanne and I was born in 1998. I am an enthusiastic sof
 
 ## Experience 👨‍💻
 
-### Software Engineer, BePatagonia; Remote, Chile | 2019 -
+### CTO, Makana; Santiago, Chile | 2022
+
+### Software Engineer, BePatagonia; Remote, Chile | 2019 - 2022
 * Designing, developing and implementing a system to provide management tools for 7 agricultural companies.
 * Streamline accounting and human resources processes, managing up to 1500 contracts simultaneously. 
 * Developed through an iterative process involving the client on each step, getting as a result an app the fits exactly what the client needed.
